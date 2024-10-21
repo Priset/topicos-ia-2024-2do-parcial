@@ -30,5 +30,29 @@
         "destination": "Dallas",
         "cost": 401,
         "reservation_type": "TripReservation"
+    },
+    {
+        "trip_type": "BUS",
+        "date": "2024-10-25",
+        "departure": "La Paz Bolivia",
+        "destination": "Los yungas",
+        "cost": 288,
+        "reservation_type": "TripReservation"
+    },
+    {
+        "checkin_date": "2024-10-25",
+        "checkout_date": "2024-10-30",
+        "hotel_name": "Hotel Calacoto",
+        "city": "La Paz Bolivia",
+        "cost": 596,
+        "reservation_type": "HotelReservation"
+    },
+    {
+        "reservation_time": "2024-10-26T00:00:00",
+        "restaurant": "Fellini",
+        "city": "La Paz Bolivia",
+        "dish": "Lasajna",
+        "cost": 52,
+        "reservation_type": "RestaurantReservation"
     }
 ]
